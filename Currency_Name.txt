@@ -1,0 +1,48 @@
+AFGHANISTAN , Afghani , 1.17
+ALBANIA , Lek , 0.86 
+ALGERIA , Algerian Dinar , 0.74 
+AMERICAN SAMOA , US Dollar , 103.74 
+ANGOLA , Kwanza , 0.24
+ANGUILLA , East Caribbean Dollar , 38.39 
+ARGENTINA , Argentine Peso , 0.71 
+ARMENIA , Armenian Dram , 0.25  
+ARUBA , Aruban Florin , 57.64 
+AUSTRALIA , Australian Dollar , 67.94 
+AUSTRIA , Euro , 100.53 
+AZERBAIJAN , Azerbaijanian Manat , 61.03 
+BAHRAIN , Bahraini Dinar , 275.14 
+BANGLADESH , Taka , 1
+BARBADOS , Barbados Dollar , 51.09 
+BELARUS , Belarussian Ruble , 40.84 
+BELGIUM , Euro , 100.53 
+BELIZE , Belize Dollar , 51.18 
+BERMUDA , Bermudian Dollar , 103.75 
+BHUTAN , Ngultrum , 1.27 
+BHUTAN , Indian Rupee , 1.27
+BOTSWANA , Pula , 7.76
+BRAZIL , Brazilian Real , 19.71 
+BULGARIA , Bulgarian Lev , 51.42
+BURUNDI , Burundi Franc , 0.050 
+CABO VERDE , Cabo Verde Escudo , 0.91 
+CAMBODIA , Riel , 0.025
+CAMEROON , CFA Franc BEAC , 0.15 
+CANADA , Canadian Dollar , 76.36
+CHILE , Unidad de Fomento , 3650.77 
+COLOMBIA , Colombian Peso , 0.024 
+CROATIA , Kuna , 13.37
+GERMANY , Euro , 100.53
+HONDURAS , Lempira , 4.18
+HONG KONG , Hong Kong Dollar , 13.22
+HUNGARY , Forint , 0.25
+ICELAND , Iceland Krona , 0.72
+INDIA , Indian Rupee , 1.28 
+INDONESIA , Rupiah , 0.0069 
+IRELAND , Euro , 100.53
+ISRAEL , New Israeli Sheqel , 29.57 
+ITALY , Euro , 100.53 
+JAPAN , Yen , 0.72
+LATVIA , Euro , 99.8549 
+UZBEKISTAN , Uzbekistan Sum , 0.0094
+VANUATU , Vatu , 0.86 
+VENEZUELA , Bolivar , 0.000127363 
+ZIMBABWE , Zimbabwe Dollar , 0.286134
